@@ -2,7 +2,7 @@
 namespace Craft;
 
 /**
- * Save Search @v1.0
+ * Save Search @v1.1
  *
  * A plugin that allows your last search to be saved
  * and populated in the search box's in Craft. This is
@@ -52,7 +52,7 @@ class SaveSearchPlugin extends BasePlugin
      */
     public function getVersion()
     {
-        return '1.0';
+        return '1.1';
     }
 
     /**

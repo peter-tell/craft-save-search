@@ -13,10 +13,14 @@ After enabling continue to use Craft as normal. Your last search for an area of 
 
 This is way too long of an explanation for something so ridiculously simple. There's more lines in this README than there is code.
 
+##Requirements##
+It got broke for version 2.3, so I'm not acutally positive if it works for a version before this.
+
 ##Feedback?##
 Contact us on Twitter [@Page8Online](https://twitter.com/Page8Online) or visit us at [page-8.com](http://page-8.com)
 
 ##Version History##
+* 1.1 - Holy crow a release? Broke for 2.3. Fixed it.
 * 1.0 - Initial Release
 
 ###License###
