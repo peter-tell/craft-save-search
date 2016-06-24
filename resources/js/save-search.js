@@ -5,7 +5,7 @@ $( document ).ready(function() {
     // If we're on a searchable page, try and populate the search box
     var $search = $('.search:first input:first');
     if ($search.length && savedSearch) {
-        $search.attr('value', savedSearch);
+        $search.attr('value', savedSearch).blur();
     }
 
     // Clear out the saved search when moving to another section
